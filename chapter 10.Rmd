@@ -1,17 +1,18 @@
 ---
-title: "isl-chapter 10"
+title: "ISL - Chapter 10"
 author: "Merian Herrera"
 date: "8/8/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, echo=FALSE, warning=FALSE}
 library(tidyverse)
 ```
 
 ## **Chapter 10: Unsupervised Learning**
 
 #### Example of running a k-means model with the first and second column of a PCA.
+
 <br>
 
 ```{r}
